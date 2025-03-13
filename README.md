@@ -1,5 +1,6 @@
 ## This repo contains the study materials for learning malayalam Alaphabets and words
 
+![Alt text](assets/youtube.png)
 You can watch [videos here](https://www.youtube.com/playlist?list=PLia1f8x4BobQ3DgOCfggqH-7vi0JXpgms)  or by scanning this QR code 
 ![Alt text](assets/image1.png)
 
